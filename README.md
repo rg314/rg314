@@ -4,6 +4,9 @@
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />](https://medium.com/@ryan.greenhalgh133)
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/linkedin.svg" />](https://www.linkedin.com/in/rg314/)
 
+<br />
+
+---
 
 🔭 I’m currently working on Bayseian Traction Force Microscopy, Graph Neural Networks, Kinetic Monte Carlo simulations
 
