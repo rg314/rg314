@@ -13,7 +13,7 @@ PhD Candidate in Biophysics @ University of Cambridge
 
 🔭 I’m currently working on Bayseian Traction Force Microscopy, Graph Neural Networks, Kinetic Monte Carlo simulations
 
-🌱 I’m currently learning C++ 
+🌱 I’m currently learning C++ & Rust
 
 <!--
 **rg314/rg314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
