@@ -13,7 +13,7 @@
 Founding Engineer @ deepMirror | PhD candidate in Biophysics @ University of Cambridge
 
 
-🔭 I’m currently working on Bayseian Traction Force Microscopy, Graph Neural Networks, Kinetic Monte Carlo simulations
+🔭 I’m currently working on Bayseian Traction Force Microscopy, Graph Neural Networks, Kinetic Monte Carlo simulations, Computer vision & MLOps
 
 🌱 I’m currently learning C++ & Rust
 
