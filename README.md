@@ -15,7 +15,7 @@ Founding Engineer @ deepMirror | PhD candidate in Biophysics @ University of Cam
 
 🔭 I’m currently working on Bayseian Traction Force Microscopy, Graph Neural Networks, Kinetic Monte Carlo simulations, Computer vision & MLOps
 
-🌱 I’m currently learning C++ & Rust
+🌱 I’m currently learning C++, Rust, & Piano 🎹
 
 <!--
 **rg314/rg314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
