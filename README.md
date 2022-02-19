@@ -10,7 +10,7 @@
 
 ---
 
-Founding Engineer @ deepMirror | PhD candidate in Biophysics @ University of Cambridge
+Enabling Breakthroughs from small data as CTO @ DeepMirror | PhD @ University of Cambridge
 
 
 🔭 I’m currently working on Bayseian Traction Force Microscopy, Graph Neural Networks, Kinetic Monte Carlo simulations, Computer vision & MLOps
