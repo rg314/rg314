@@ -10,12 +10,7 @@
 
 ---
 
-Enabling Breakthroughs from small data as CTO @ DeepMirror | PhD @ University of Cambridge
-
-
-🔭 I’m currently working on Bayseian Traction Force Microscopy, Graph Neural Networks, Kinetic Monte Carlo simulations, Computer vision & MLOps
-
-🌱 I’m currently learning C++, Rust, & Piano 🎹
+Enabling Breakthroughs in Life Sciences as CTO @ DeepMirror 
 
 <!--
 **rg314/rg314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
